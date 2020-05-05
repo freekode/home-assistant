@@ -9,7 +9,7 @@ coverage==5.1
 mock-open==1.4.0
 mypy==0.770
 pre-commit==2.3.0
-pylint==2.4.4
+pylint==2.5.0
 astroid==2.3.3
 pylint-strict-informational==0.1
 pytest-aiohttp==0.3.0
