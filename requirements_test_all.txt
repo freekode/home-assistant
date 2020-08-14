@@ -864,3 +864,5 @@ zigpy-xbee-homeassistant==0.11.0
 
 # homeassistant.components.zha
 zigpy-zigate==0.5.1
+
+urllib3>=1.24.3 # not directly required, pinned by Snyk to avoid a vulnerability
